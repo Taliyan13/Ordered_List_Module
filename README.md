@@ -34,7 +34,7 @@ Additionally, I have incorporated unit tests for multi-threaded scenarios. These
 
 To compile the program, navigate to the `src` directory using the following command:
 ### cd .\src\
-### javac Node.java QuickPushOrderedList.java Main.java QuickPopOrderedList.java
+### javac Node.java QuickPushOrderedList.java QuickPopOrderedList.java
 
 
 
