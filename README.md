@@ -20,9 +20,9 @@ To ensure the functionality and performance of the Ordered List Module, I have i
 
 By executing the tests, I have determined the maximum running time for the O(1) operation, and to evaluate the O(N) operation, I multiplied the maximum O(1) execution time by the length of the list input.
 
-# I have saved them as static values with the following names -
-# MAX_PUSH_DURATION
-# MAX_POP_DURATION
+**I have saved them as static values with the following names -**
+ MAX_PUSH_DURATION
+ MAX_POP_DURATION
 
 **Unit Test for Multi-Threads**
 
